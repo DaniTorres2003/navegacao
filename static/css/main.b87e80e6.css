@@ -1,0 +1,2 @@
+body{margin:0}.App{height:100vh}.App,.Menu{display:flex}.Menu{background-color:#1e90ff;flex-basis:250px}.Menu nav{flex:1 1}.Menu ul{list-style:none;padding:0}.Menu li{display:flex}.Menu li a{color:#fff;flex:1 1;font-size:1.5rem;margin-bottom:10px;padding:10px;text-decoration:none}.Menu li a:hover{background-color:#00000030}.Content{background-color:#ddd;display:flex;flex-grow:1;padding:30px}
+/*# sourceMappingURL=main.b87e80e6.css.map*/
